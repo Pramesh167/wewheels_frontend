@@ -49,12 +49,7 @@ The frontend communicates with the backend via a RESTful API, handling operation
 - **API Integration**: Handling API requests for real-time product updates, user authentication, and AR data processing while maintaining smooth and secure communication was crucial and required thorough testing.
 
 
-### Environment Variables
 
-- `REACT_APP_API_URL`: http://localhost:5000
-- `REACT_APP_GOOGLE_CLIENT_ID`: 3233117944548-o7084j6cjqtrv1gkj1tt0dr0nvc7thp5.apps.googleusercontent.com
-- `REACT_APP_KHALTI_URL`: https://test-pay.khalti.com/
-- `REACT_APP_KHALTI_PUBLIC_KEY`: 723a1de3679647e2993b8537e48ec876
 
  
 ![alt text](<Get yourself your automobile products at best price (2).png>)
